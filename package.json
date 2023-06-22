@@ -1,6 +1,6 @@
 {
   "name": "netzip",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "ZIP file reader optimized for network access",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emilmelnikov/netzip.js.git"
+    "url": "git+https://github.com/ilastik/netzip.js.git"
   },
   "author": "Emil Melnikov <emilmelnikov@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emilmelnikov/netzip.js/issues"
+    "url": "https://github.com/ilastik/netzip.js/issues"
   },
-  "homepage": "https://github.com/emilmelnikov/netzip.js#readme",
+  "homepage": "https://github.com/ilastik/netzip.js#readme",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.2",
     "jest": "^29.5.0",
